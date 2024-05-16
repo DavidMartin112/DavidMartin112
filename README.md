@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
 
 ## Hi 👋, 
-I'm David, a Software Engineer 👨‍💻 who is passionate about new technologies and innovative ecosystem. 
+I'm David, a Software Engineer 👨‍💻 who is passionate about new technologies and innovative ecosystems. 
 
 <p align="justify">
   <a href="https://github.com/DavidMartin112/github-readme-stats">
